@@ -1,4 +1,4 @@
-# nodejs-ecommerce-microservice
+# Ecommerce-microservice
 
 A microservice sample for building an e-commerce backend. Medium article write-up on this project can be found here [here](https://medium.com/@nicholasgcc/building-scalable-e-commerce-backend-with-microservices-exploring-design-decisions-node-js-b5228080403b)
 
